@@ -21,7 +21,7 @@
 
 ### Los componentes del patrón se explican a continuación:
 
-IObservable: Interface que deben de implementar todos los objetos que quieren ser observados, en ella se definen los métodos mínimos que se deben implementar.
-ConcreteObservable: Clase que desea ser observada, ésta implementa IObservable y debe implementar sus métodos.
-IObserver: Interfaces que deben implementar todos los objetos que desean observar los cambios de IObservable.
-ConcreteObserver: Clase concreta que está atenta de los cambios de IObserver, esta clase hereda de IObserver y debe de implementar sus métodos.
+### IObservable: Interface que deben de implementar todos los objetos que quieren ser observados, en ella se definen los métodos mínimos que se deben implementar.
+### ConcreteObservable: Clase que desea ser observada, ésta implementa IObservable y debe implementar sus métodos.
+### IObserver: Interfaces que deben implementar todos los objetos que desean observar los cambios de IObservable.
+### ConcreteObserver: Clase concreta que está atenta de los cambios de IObserver, esta clase hereda de IObserver y debe de implementar sus métodos.
