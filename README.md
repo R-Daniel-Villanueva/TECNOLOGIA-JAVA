@@ -9,3 +9,6 @@
 
 ### La siguiente imagen muestra como se ejecuta el proceso de manera interna: 
 ![alt text](https://reactiveprogramming.io/public/books/patterns/img/patterns-articles/observer-sequence.png)
+
+### Diagrama de Estructura del patron de diseño Observer
+![alt text](https://refactoring.guru/images/patterns/diagrams/observer/structure.png)
