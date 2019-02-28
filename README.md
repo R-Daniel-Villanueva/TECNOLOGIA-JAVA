@@ -11,4 +11,4 @@
 ![alt text](https://reactiveprogramming.io/public/books/patterns/img/patterns-articles/observer-sequence.png)
 
 ### Diagrama de Estructura del patron de diseño Observer
-![alt text](https://refactoring.guru/images/patterns/diagrams/observer/structure.png)
+![alt text](https://drive.google.com/open?id=18MtcqE3un-zuIAL3rs7qKlN_6GiKNKHZ)
